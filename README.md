@@ -1,2 +1,2 @@
-# Editor
-This is a simple editor created by me in python
+# Notepad
+This is a simple notepad created by me in python
