@@ -1,2 +1,2 @@
 # Editor
-this is an editor created by me in python
+this is a simple editor created by me in python
