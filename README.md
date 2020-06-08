@@ -11,7 +11,7 @@ languages:
 The .exe version is released
 
 # How to run
-just install and open it
+go to releases install and open it
 
 #Bugs?
 contact me on discord ●(𝓖𝓟𝓘)●Kekkopel#7562
