@@ -11,7 +11,8 @@ languages:
 The .exe version is released
 
 # How to run
-go to releases install and open it
+go to releases install the .exe file and open it
+if your pc told you that is a virus that's NOT a virus
 
 # Bugs?
 contact me on discord ●(𝓖𝓟𝓘)●Kekkopel#7562
