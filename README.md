@@ -8,5 +8,7 @@ languages:
 
 -inglese
 
+The .exe version is going to be released
+
 # How to run
 I recommend only developers who have python and tkinter installed
