@@ -8,7 +8,10 @@ languages:
 
 -inglese
 
-The .exe version is going to be released
+The .exe version is released
 
 # How to run
-I recommend only developers who have python and tkinter installed
+just install and open it
+
+#Bugs?
+contact me on discord ●(𝓖𝓟𝓘)●Kekkopel#7562
