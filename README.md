@@ -22,4 +22,4 @@ contact me on discord ●(𝓖𝓟𝓘)●Kekkopel#7562
 the new version is going to coming soon:
 it will have the autocomplete
 
-some little commands of C (like printf, if,else...)
+some little commands of python (like print, if,else...)
