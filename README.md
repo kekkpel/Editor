@@ -23,3 +23,5 @@ the new version is going to coming soon:
 it will have the autocomplete
 
 some little python commands(like print, if,else...)
+
+and maybe an icon and some little changes
